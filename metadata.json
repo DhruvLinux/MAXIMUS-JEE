@@ -1,0 +1,5 @@
+{
+  "name": "Maximus JEE",
+  "description": "A comprehensive study planner and tracker for JEE aspirants. Features subject-wise chapter tracking, PYQ monitoring, revision timelines, and a dashboard for performance analytics. Includes Max, a Gemini-powered study coach.",
+  "requestFramePermissions": []
+}
